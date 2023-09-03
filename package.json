@@ -1,0 +1,16 @@
+{
+  "name": "w3i-nft-gen",
+  "version": "1.0.0",
+  "description": "Web3Invest NFT Generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Web3Invest",
+    "email": "contact@web3invest.fr",
+    "url": "https://web3invest.fr"
+  },
+  "license": "Apache-2.0"
+}
